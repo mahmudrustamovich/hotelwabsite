@@ -300,5 +300,14 @@ p{
         padding: 15px;
         
     }
-
+    #about-info .info-left {
+        width: 100%;
+        min-height: 100%;
+    }
+    #about-info .info-right {
+        width: 100%;
+    }
+    #testimonials {
+        height: auto;
+    }
 }
